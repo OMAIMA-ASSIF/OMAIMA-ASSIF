@@ -43,7 +43,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer">
-    <img src="[https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)s" alt="React.js" width="40" height="40"/>
+    <img src="[https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="40" height="40"/>
   </a>
 </p>
 
