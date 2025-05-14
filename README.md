@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw30YMrFCPeJP4YEhBiyrYcc&ust=1742418164307000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOj569fDlIwDFQAAAAAdAAAAABAR">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" /> </p>
 
-- 🌱 I’m currently learning **React.js , Nodejs,  JavaFx**
+- 🌱 I’m currently learning **React.js , Nodejs,  express.js javafx**
 
 - 📫 How to reach me **omaima.assif-etu@etu.univh2c.ma**
 
@@ -45,7 +45,7 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="40" height="40"/>
   </a>
-  <a href="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" target="_blank" rel="noreferrer">
+  <a href="https://th.bing.com/th/id/OIP.3KLJOQPqIi8h7vZIJDEt5QAAAA?cb=iwc2&rs=1&pid=ImgDetMain" target="_blank" rel="noreferrer">
     <img src="https://web.rostiapp.cz/static/img/nodejs_logo.png" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/library" target="_blank" rel="noreferrer">
