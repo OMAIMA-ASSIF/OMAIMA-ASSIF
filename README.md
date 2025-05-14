@@ -45,8 +45,8 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="40" height="40"/>
   </a>
-  <a href="https://th.bing.com/th/id/OIP.3KLJOQPqIi8h7vZIJDEt5QAAAA?cb=iwc2&rs=1&pid=ImgDetMain" target="_blank" rel="noreferrer">
-    <img src="https://web.rostiapp.cz/static/img/nodejs_logo.png" alt="Node.js" width="40" height="40"/>
+  <a href="https://nodejs.org/fr/learn/getting-started/how-much-javascript-do-you-need-to-know-to-use-nodejs" target="_blank" rel="noreferrer">
+    <img src="[https://web.rostiapp.cz/static/img/nodejs_logo.png](https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png)" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/library" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.b2H_0a04rIXf9sXxV8Jm8AHaFj?cb=iwc2&rs=1&pid=ImgDetMain" alt="Ollama" width="40" height="40"/>
