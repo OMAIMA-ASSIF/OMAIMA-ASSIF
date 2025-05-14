@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omaima Assif</h1>
-<h3 align="center">A passionate software engineering student from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw30YMrFCPeJP4YEhBiyrYcc&ust=1742418164307000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOj569fDlIwDFQAAAAAdAAAAABAR">
+<h3 align="center">A passionate software engineering student from Morocco  @ENSET MOHAMMEDIA</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" /> </p>
 
 - 🌱 I’m currently learning **React.js , Nodejs,  express.js javafx**
