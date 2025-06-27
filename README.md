@@ -46,7 +46,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/fr/learn/getting-started/how-much-javascript-do-you-need-to-know-to-use-nodejs" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Node.js" width="40" height="40"/>
+    <img src="https://www.nicepng.com/png/full/80-803546_javascript-vector-transparent-node-js-logo-png.png" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShD9RN6fU09L0V5rB6Rhdr97BjuyG4FAbuiNGKxVUs9PXXCERzBPPg4BZwtH2olzJTeOU&usqp=CAU" alt="Express.js" width="40" height="40"/>
