@@ -23,7 +23,7 @@
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40" /> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border-radius:15%;"/> </a>
+    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="javascript" width="50" height="50" style="border-radius:15%;"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
@@ -48,7 +48,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/fr/learn/getting-started/how-much-javascript-do-you-need-to-know-to-use-nodejs" target="_blank" rel="noreferrer">
-    <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="Node.js" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/R.4dfe01148ebce3a9de8ab55279b0b4bc?rik=Cb%2f46GSGyzIMJA&pid=ImgRaw&r=0" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/R.8ee926be8802a7d8adec1507757f4351?rik=Er%2fwDXTdrxMHMQ&riu=http%3a%2f%2fi.cloudup.com%2fzfY6lL7eFa-3000x3000.png&ehk=Yv56sHeOh1ZzvKZsRAe6NkBtj5S35qrZDpzrD5zzJ3Y%3d&risl=&pid=ImgRaw&r=0" alt="Express.js" width="40" height="40"/>
