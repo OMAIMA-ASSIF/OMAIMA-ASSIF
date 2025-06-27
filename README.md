@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omaima Assif</h1>
+![image](https://github.com/user-attachments/assets/350bf145-b188-4f96-acf6-90e78a047ae0)<h1 align="center">Hi 👋, I'm Omaima Assif</h1>
 <h3 align="center">A passionate software engineering student from Morocco  @ENSET MOHAMMEDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" /> </p>
@@ -33,7 +33,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://th.bing.com/th/id/R.bdca5a0fbce0a5489a6bf98fdb58954b?rik=yFmZBtMfmRILXw&pid=ImgRaw&r=0" alt="streamlit" width="40" height="40"/> </a>
+    <img src="https://images.seeklogo.com/logo-png/44/1/streamlit-logo-png_seeklogo-441815.png" alt="streamlit" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
@@ -51,7 +51,7 @@
     <img src="https://www.nicepng.com/png/full/80-803546_javascript-vector-transparent-node-js-logo-png.png" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShD9RN6fU09L0V5rB6Rhdr97BjuyG4FAbuiNGKxVUs9PXXCERzBPPg4BZwtH2olzJTeOU&usqp=CAU" alt="Express.js" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/R.8ee926be8802a7d8adec1507757f4351?rik=Er%2fwDXTdrxMHMQ&riu=http%3a%2f%2fi.cloudup.com%2fzfY6lL7eFa-3000x3000.png&ehk=Yv56sHeOh1ZzvKZsRAe6NkBtj5S35qrZDpzrD5zzJ3Y%3d&risl=&pid=ImgRaw&r=0" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/library" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.b2H_0a04rIXf9sXxV8Jm8AHaFj?cb=iwc2&rs=1&pid=ImgDetMain" alt="Ollama" width="40" height="40"/>
