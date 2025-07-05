@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" /> </p>
 
-- 🌱 I’m currently learning **React.js , Nodejs,  express.js , MongoDB, Fine tuning**
+- 🌱 I’m currently learning **MERN stack developement**
 
 - 📫 How to reach me **omaima.assif-etu@etu.univh2c.ma**
 
