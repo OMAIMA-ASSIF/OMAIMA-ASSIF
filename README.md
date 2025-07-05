@@ -55,7 +55,7 @@
 " width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/docs/?msockid=237a3a64b0ef66f01ee92f55b12867ff" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/user-attachments/assets/6827da29-e30a-4b7a-9661-ad3be5eca875)
+    <img src="![image](https://github.com/user-attachments/assets/42da473a-21f3-4e83-9660-b719fb6232da)
 " alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/library" target="_blank" rel="noreferrer">
