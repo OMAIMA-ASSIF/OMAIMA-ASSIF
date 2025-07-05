@@ -54,7 +54,7 @@
     <img src="https://th.bing.com/th/id/R.8ee926be8802a7d8adec1507757f4351?rik=Er%2fwDXTdrxMHMQ&riu=http%3a%2f%2fi.cloudup.com%2fzfY6lL7eFa-3000x3000.png&ehk=Yv56sHeOh1ZzvKZsRAe6NkBtj5S35qrZDpzrD5zzJ3Y%3d&risl=&pid=ImgRaw&r=0" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/docs/?msockid=237a3a64b0ef66f01ee92f55b12867ff" target="_blank" rel="noreferrer">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.JhdchOb0n1bwrlfhGqycbgHaFG?cb=thvnext&rs=1&pid=ImgDetMain&o=7&rm=3g" alt="MongoDB" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/115/190/png-transparent-mongodb-original-logo-icon.png" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/library" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.b2H_0a04rIXf9sXxV8Jm8AHaFj?cb=iwc2&rs=1&pid=ImgDetMain" alt="Ollama" width="40" height="40"/>
