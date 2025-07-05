@@ -51,12 +51,10 @@
     <img src="https://th.bing.com/th/id/R.4dfe01148ebce3a9de8ab55279b0b4bc?rik=Cb%2f46GSGyzIMJA&pid=ImgRaw&r=0" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/user-attachments/assets/cf3a8394-a668-4410-ba02-7100e72cf30c)
-" width="40" height="40"/>
+    <img src="https://tse1.mm.bing.net/th/id/OIP.6T_jP0p6ZUKOxoR2niX1nQHaHa?cb=thvnext&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/docs/?msockid=237a3a64b0ef66f01ee92f55b12867ff" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/user-attachments/assets/42da473a-21f3-4e83-9660-b719fb6232da)
-" alt="MongoDB" width="40" height="40"/>
+    <img src="https://tse3.mm.bing.net/th/id/OIP.4306g4hTgYAfBXtDMwObqAHaHa?cb=thvnext&rs=1&pid=ImgDetMain&o=7&rm=3" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/library" target="_blank" rel="noreferrer">
     <img src="https://th.bing.com/th/id/OIP.b2H_0a04rIXf9sXxV8Jm8AHaFj?cb=iwc2&rs=1&pid=ImgDetMain" alt="Ollama" width="40" height="40"/>
