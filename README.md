@@ -63,7 +63,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/XML/Guides/XML_introduction" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/31053/xml.svg" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/31053/xml.svg" alt="XML" width="40" height="40"/>
   </a>
   
 </p>
