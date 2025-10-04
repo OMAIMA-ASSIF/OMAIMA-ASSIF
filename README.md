@@ -40,7 +40,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  
   <a href="https://matplotlib.org/" rel="noreferrer">
-    <img src="https://tse3.mm.bing.net/th/id/OIP.wgZXzSHK91ELXICNHcPjDQHaBx?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="matplotlib" width="40" height="40"/>
+    <img src="https://tse3.mm.bing.net/th/id/OIP.wgZXzSHK91ELXICNHcPjDQHaBx?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="matplotlib" width="40" height="60"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
