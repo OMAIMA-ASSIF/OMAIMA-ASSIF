@@ -69,6 +69,10 @@
     <img src="https://www.svgrepo.com/show/31053/xml.svg" alt="XML" width="40" height="40"/>
   </a>
   
+  <a href="https://docs.godotengine.org/en/latest/" target="_blank" rel="noreferrer">
+    <img src="https://godotengine.org/assets/press/icon_color.png" alt="XML" width="40" height="40"/>
+  </a>
+  
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaima-assif&show_icons=true&locale=en&layout=compact" alt="omaima-assif" /></p>
