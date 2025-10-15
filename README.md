@@ -44,6 +44,9 @@
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  
+  <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://th.bing.com/th/id/OIP.uE4eZYfSbcQWc7uF6dR42AAAAA?o=7&cb=12rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" alt="java" width="40" height="40"/> </a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="40" height="40"/>
   </a>
