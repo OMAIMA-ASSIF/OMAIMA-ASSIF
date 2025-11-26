@@ -76,6 +76,9 @@
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="XML" width="40" height="40"/>
   </a>
+  <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer">
+    <img src="https://p7.hiclipart.com/preview/905/45/226/scikit-learn-python-scikit-image-logo-brand-learning.jpg" alt="XML" width="40" height="40"/>
+  </a>
   
 </p>
 
