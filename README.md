@@ -60,7 +60,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/mongodb_logo_icon_170943.png" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/library" target="_blank" rel="noreferrer">
-    <img src="https://th.bing.com/th/id/OIP.b2H_0a04rIXf9sXxV8Jm8AHaFj?cb=iwc2&rs=1&pid=ImgDetMain" alt="Ollama" width="40" height="40"/>
+    <img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/ollama/ollama/live/logo-1701412810306.png" alt="Ollama" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/>
