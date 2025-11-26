@@ -54,7 +54,7 @@
     <img src="https://th.bing.com/th/id/R.4dfe01148ebce3a9de8ab55279b0b4bc?rik=Cb%2f46GSGyzIMJA&pid=ImgRaw&r=0" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://tse4.mm.bing.net/th/id/OIP.1fZjQpkRMKTBGN_7H5YnFwHaGL?rs=1&pid=ImgDetMain&o=7&rm=3" width="40" height="40"/>
+    <img src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/docs/?msockid=237a3a64b0ef66f01ee92f55b12867ff" target="_blank" rel="noreferrer">
     <img src="https://tse3.mm.bing.net/th/id/OIP.4306g4hTgYAfBXtDMwObqAHaHa?cb=thvnext&rs=1&pid=ImgDetMain&o=7&rm=3" alt="MongoDB" width="40" height="40"/>
