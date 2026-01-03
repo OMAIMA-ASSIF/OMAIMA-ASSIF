@@ -70,14 +70,17 @@
   </a>
   
   <a href="https://docs.godotengine.org/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://godotengine.org/assets/press/icon_color.png" alt="XML" width="40" height="40"/>
+    <img src="https://godotengine.org/assets/press/icon_color.png" alt="godot" width="40" height="40"/>
   </a>
 
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="XML" width="40" height="40"/>
+    <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer">
-    <img src="https://p7.hiclipart.com/preview/905/45/226/scikit-learn-python-scikit-image-logo-brand-learning.jpg" alt="XML" width="40" height="40"/>
+    <img src="https://p7.hiclipart.com/preview/905/45/226/scikit-learn-python-scikit-image-logo-brand-learning.jpg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer">
+    <img src="https://tse2.mm.bing.net/th/id/OIP.EHBp2Ex9dyUC-eOifvyElgHaGX?rs=1&pid=ImgDetMain&o=7&rm=3" alt="redis"/>
   </a>
   
 </p>
