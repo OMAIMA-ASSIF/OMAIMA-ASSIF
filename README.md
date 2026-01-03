@@ -80,7 +80,7 @@
     <img src="https://p7.hiclipart.com/preview/905/45/226/scikit-learn-python-scikit-image-logo-brand-learning.jpg" alt="scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer">
-    <img src="https://tse2.mm.bing.net/th/id/OIP.EHBp2Ex9dyUC-eOifvyElgHaGX?rs=1&pid=ImgDetMain&o=7&rm=3" alt="redis" width="40" height="40"/>
+    <img src="https://www.liblogo.com/img-logo/re310r405-redis-logo-redis-original-wordmark-logo-free-icon-of-devicon.png" alt="redis" width="40" height="40"/>
   </a>
   
 </p>
