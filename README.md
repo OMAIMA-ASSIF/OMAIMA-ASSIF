@@ -82,7 +82,9 @@
   <a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer">
     <img src="https://iconape.com/wp-content/png_logo_vector/redis.png" alt="redis" width="40" height="40"/>
   </a>
-  
+  <a href="https://neo4j.com/docs/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.brandfetch.io/idpMxmPV8l/w/500/h/500/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667853364450" alt="neo4j" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaima-assif&show_icons=true&locale=en&layout=compact" alt="omaima-assif" /></p>
