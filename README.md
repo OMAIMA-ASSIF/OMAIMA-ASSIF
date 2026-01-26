@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omaima Assif</h1>
-<h3 align="center">A passionate software engineering student from Morocco  @ENSET MOHAMMEDIA</h3>
+<h3 align="center">A passionate software and AI engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" /> </p>
 
