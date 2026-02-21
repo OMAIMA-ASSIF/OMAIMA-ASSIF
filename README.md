@@ -87,5 +87,6 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaima-assif&show_icons=true&locale=en&layout=compact" alt="omaima-assif" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaima-assif&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+</p>
