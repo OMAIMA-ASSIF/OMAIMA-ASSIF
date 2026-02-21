@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300">
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300"> <img src="https://infodigital.ciberlinea.net/wp-content/uploads/sites/5/2025/03/8775235-1024x1024.png" width="300">
 </p>
