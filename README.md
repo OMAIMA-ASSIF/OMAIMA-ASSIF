@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaima-assif&show_icons=true&locale=en&layout=compact&v=1" alt="omaima-assif" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uSYQsJQWEv6O4/giphy.gif" width="300">
 </p>
