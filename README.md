@@ -68,10 +68,6 @@
   <a href="https://developer.mozilla.org/fr/docs/Web/XML/Guides/XML_introduction" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/31053/xml.svg" alt="XML" width="40" height="40"/>
   </a>
-  
-  <a href="https://docs.godotengine.org/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://godotengine.org/assets/press/icon_color.png" alt="godot" width="40" height="40"/>
-  </a>
 
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" alt="docker" width="40" height="40"/>
