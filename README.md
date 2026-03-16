@@ -84,6 +84,9 @@
   <a href="https://docs.spring.io/spring-framework/reference/index.html" target="_blank" rel="noreferrer">
     <img src="https://logodix.com/logo/1614306.png" alt="spring" width="40" height="40"/>
   </a>
+  <a href="https://v17.angular.io/docs" target="_blank" rel="noreferrer">
+    <img src="https://www.liblogo.com/img-logo/an271a55f-angular-logo-angular-logo-transparent-png-stickpng.png" alt="spring" width="40" height="40"/>
+  </a>
 </p>
 
 <p align="center">
