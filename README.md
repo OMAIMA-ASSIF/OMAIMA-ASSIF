@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omaima Assif</h1>
+<img width="2400" height="2401" alt="image" src="https://github.com/user-attachments/assets/3de33df6-7133-496e-a594-149a8b86ae95" /><h1 align="center">Hi 👋, I'm Omaima Assif</h1>
 <h3 align="center">A passionate software and AI engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" /> </p>
@@ -80,6 +80,9 @@
   </a>
   <a href="https://neo4j.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo.png" alt="neo4j" width="40" height="40"/>
+  </a>
+  <a href="https://docs.spring.io/spring-framework/reference/index.html" target="_blank" rel="noreferrer">
+    <img src="https://logodix.com/logo/1614306.png" alt="spring" width="40" height="40"/>
   </a>
 </p>
 
