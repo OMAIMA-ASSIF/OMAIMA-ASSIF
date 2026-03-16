@@ -1,4 +1,4 @@
-<img width="2400" height="2401" alt="image" src="https://github.com/user-attachments/assets/3de33df6-7133-496e-a594-149a8b86ae95" /><h1 align="center">Hi 👋, I'm Omaima Assif</h1>
+<h1 align="center">Hi 👋, I'm Omaima Assif</h1>
 <h3 align="center">A passionate software and AI engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" /> </p>
