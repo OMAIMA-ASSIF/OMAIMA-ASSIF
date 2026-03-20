@@ -82,7 +82,7 @@
     <img src="https://www.highvail.com/wp-content/uploads/2020/04/AWS-Logo-halfwhite.png" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://neo4j.com/docs/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/679/579/png-transparent-neo4j-logo-thumbnail-tech-companies.png" alt="neo4j" width="40" height="40"/>
+    <img src="https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/neo4j_logo_whitetext.png" alt="neo4j" width="40" height="40"/>
   </a>
   <a href="https://docs.spring.io/spring-framework/reference/index.html" target="_blank" rel="noreferrer">
     <img src="https://logodix.com/logo/1614306.png" alt="spring" width="40" height="40"/>
