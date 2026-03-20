@@ -85,7 +85,7 @@
     <img src="https://logodix.com/logo/1614306.png" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://v17.angular.io/docs" target="_blank" rel="noreferrer">
-    <img src="https://www.liblogo.com/img-logo/an271a55f-angular-logo-angular-logo-transparent-png-stickpng.png" alt="spring" width="40" height="40"/>
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="spring" width="40" height="40"/>
   </a>
 </p>
 
