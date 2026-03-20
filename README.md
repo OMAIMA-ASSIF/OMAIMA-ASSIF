@@ -79,7 +79,7 @@
     <img src="https://iconape.com/wp-content/png_logo_vector/redis.png" alt="redis" width="40" height="40"/>
   </a>
   <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://png.pngitem.com/pimgs/s/579-5795816_aws-logo-transparent-background-hd-png-download.png" alt="aws" width="40" height="40"/>
+    <img src="https://www.highvail.com/wp-content/uploads/2020/04/AWS-Logo-halfwhite.png" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://neo4j.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo.png" alt="neo4j" width="40" height="40"/>
