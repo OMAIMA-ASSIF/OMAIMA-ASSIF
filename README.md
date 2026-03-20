@@ -78,6 +78,9 @@
   <a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer">
     <img src="https://iconape.com/wp-content/png_logo_vector/redis.png" alt="redis" width="40" height="40"/>
   </a>
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://freepnglogo.com/images/all_img/amazon-web-services-logo-d111.png" alt="aws" width="40" height="40"/>
+  </a>
   <a href="https://neo4j.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo.png" alt="neo4j" width="40" height="40"/>
   </a>
