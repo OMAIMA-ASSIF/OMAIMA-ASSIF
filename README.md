@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" /> </p>
 
-- 🌱 I’m currently learning **Design Patterns, aws cloud, AI**
+- 🌱 I’m currently learning **aws cloud, Spring, Android dev with java**
 - 📫 How to reach me **omaima.assif-etu@etu.univh2c.ma**
 
 <h3 align="left">Connect with me:</h3>
