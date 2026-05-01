@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omaima Assif</h1>
 <h3 align="center">Software and AI engineer student</h3>
+<h5 align="center">Web and Mobile dev</h5>
+<h5 align="center">RAG Chatbot , AI AGENT Systems</h5>
+<h5 align="center">Cloud and System Administration</h5>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" />
