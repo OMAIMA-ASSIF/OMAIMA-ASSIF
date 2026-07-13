@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=omaima-assif&label=Profile%20views&color=0e75b6&style=flat" alt="omaima-assif" />
 </p>
 
-- 🌱 I’m currently learning **Microservices,Spring, AI**
+- 🌱 I’m currently learning **Microservices,Cloud, AI**
 - 📫 How to reach me **omaima.assif-etu@etu.univh2c.ma**
 
 <h3 align="left">Connect with me:</h3>
