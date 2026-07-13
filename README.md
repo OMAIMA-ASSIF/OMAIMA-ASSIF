@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omaima Assif</h1>
 <h3 align="center">Software and AI engineer student</h3>
 <h5 align="center">Web & Mobile dev</h5>
-<h5 align="center">Powerfull RAG Chatbots & AI AGENT Systems</h5>
+<h5 align="center">Powerfull RAG Chatbots , AI AGENT & Agentic AI Systems</h5>
 <h5 align="center">Cloud and System Administration</h5>
 
 
