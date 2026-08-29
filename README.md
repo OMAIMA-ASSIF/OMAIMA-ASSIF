@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" />
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000aa7881f49feaaf3762de1bba&ts=496668&p=fs&cid=1&sig=1a5d6c7d20f4f543b857937eab02c7929ac999f48924a24af8e8a09282b340e4&v=0" width="90" height="60" />
+  <img src="https://chatgpt.com/s/m_6a92d7eba2988191aff38151b134a93d" width="40" height="40" />
 
   
 </p>
