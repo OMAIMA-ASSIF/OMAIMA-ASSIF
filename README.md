@@ -49,6 +49,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" />
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*m74bhq6suCxbzSe5skaraw.png" width="40" height="40" />
+
+  
 </p>
 </p>
 
