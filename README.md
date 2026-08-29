@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" />
-  <img width="40" height="40" alt="image" src="https://miro.medium.com/v2/resize:fit:640/0*_HnKBTpLBI7LYEpI.png" />
+  <img width="60" height="40" alt="image" src="https://miro.medium.com/v2/resize:fit:640/0*_HnKBTpLBI7LYEpI.png" />
 </p>
 </p>
 
