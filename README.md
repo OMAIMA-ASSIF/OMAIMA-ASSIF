@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40" />
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*m74bhq6suCxbzSe5skaraw.png" width="90" height="60" />
+  <img src="https://e7.pngegg.com/pngimages/929/893/png-clipart-apache-kafka-apache-cassandra-logo-apache-http-server-apache-hadoop-beijing-text-logo-thumbnail.png" width="90" height="60" />
 
   
 </p>
