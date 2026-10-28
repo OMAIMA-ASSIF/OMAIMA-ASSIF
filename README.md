@@ -3,6 +3,7 @@
 <h5 align="center">Web & Mobile dev</h5>
 <h5 align="center">Powerfull RAG Chatbots , AI AGENT & Agentic AI Systems</h5>
 <h5 align="center">Cloud and System Administration</h5>
+<h5 align="center">ML/DL</h5>
 
 
 <p align="left">
